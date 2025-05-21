@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+stanza
+lxml
+pydantic
+python-dotenv
+aiofiles
